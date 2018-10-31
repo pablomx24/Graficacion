@@ -2,7 +2,6 @@
 
 using namespace std;
 
-int main(){
-	hola();
-	return 0;
+void hola(){
+	cout << "Hola Mundo" << endl;
 }
